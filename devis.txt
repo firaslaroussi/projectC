@@ -1,0 +1,9 @@
+vols 800dt 10% 700dt
+excursion 435dt 5% 400dt
+hébérgement 300dt 15% 250dt
+location_de_voiture 120dt 10% 100dt
+
+x x x 1450000dt
+vols 100dt 10% 90
+
+
